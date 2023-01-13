@@ -1,0 +1,1039 @@
+1669963515799	geckodriver	INFO	Listening on 127.0.0.1:50211
+1669963516320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50212" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile0IjZk0"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+WebDriver BiDi listening on ws://127.0.0.1:50212
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:50212/devtools/browser/2099f1ae-5b38-48bc-bd40-737a4ec6ee9d
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963538248	geckodriver	INFO	Listening on 127.0.0.1:50266
+1669963538276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50267" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileqZDF1h"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963539357	Marionette	INFO	Marionette enabled
+1669963539607	Marionette	INFO	Listening on port 50273
+Read port: 50273
+WebDriver BiDi listening on ws://127.0.0.1:50267
+1669963539820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileqZDF1h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50267/devtools/browser/5fa19b7c-93b7-4aee-a905-7d349825e7e0
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+2022-12-02 01:45:47.030 plugin-container[27307:1158618] Error loading /Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny:  dlopen(/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny: file system sandbox blocked mmap() of '/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny'
+2022-12-02 01:45:47.030 plugin-container[27307:1158618] Cannot find function pointer HearCFPlugInFactory for factory C510CA09-C546-49CA-B110-019CAD658757 in CFBundle/CFPlugIn 0x105a38a90 </Library/Audio/Plug-Ins/HAL/SoundBunny.plugin> (bundle, not loaded)
+1669963548203	Marionette	INFO	Stopped listening on port 50273
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.yahoo.com."
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileqZDF1h/protections.sqlite
+[2022-12-02T06:45:55Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-12-02T06:45:55Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-12-02T06:45:55Z ERROR viaduct::backend::ffi] Missing HTTP status
+1669963567566	geckodriver	INFO	Listening on 127.0.0.1:50415
+1669963567586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50416" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile3KBDYa"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963568616	Marionette	INFO	Marionette enabled
+1669963568657	Marionette	INFO	Listening on port 50421
+Read port: 50421
+WebDriver BiDi listening on ws://127.0.0.1:50416
+1669963568966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile3KBDYa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50416/devtools/browser/e1c17064-bce9-4aa6-a09d-83d647f1ba2d
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+2022-12-02 01:46:15.329 plugin-container[27330:1159327] Error loading /Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny:  dlopen(/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny: file system sandbox blocked mmap() of '/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny'
+2022-12-02 01:46:15.329 plugin-container[27330:1159327] Cannot find function pointer HearCFPlugInFactory for factory C510CA09-C546-49CA-B110-019CAD658757 in CFBundle/CFPlugIn 0x100d388c0 </Library/Audio/Plug-Ins/HAL/SoundBunny.plugin> (bundle, not loaded)
+1669963575608	Marionette	INFO	Stopped listening on port 50421
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile3KBDYa/protections.sqlite
+1669963627959	geckodriver	INFO	Listening on 127.0.0.1:50557
+1669963627980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50558" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilePHCDVg"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963628867	Marionette	INFO	Marionette enabled
+1669963628946	Marionette	INFO	Listening on port 50561
+Read port: 50561
+WebDriver BiDi listening on ws://127.0.0.1:50558
+1669963629404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilePHCDVg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50558/devtools/browser/1f6edbdb-9dd3-4ce3-b0e7-d915ce0fdcf0
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+2022-12-02 01:47:15.482 plugin-container[27358:1160034] Error loading /Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny:  dlopen(/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny: file system sandbox blocked mmap() of '/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny'
+2022-12-02 01:47:15.482 plugin-container[27358:1160034] Cannot find function pointer HearCFPlugInFactory for factory C510CA09-C546-49CA-B110-019CAD658757 in CFBundle/CFPlugIn 0x109c38c60 </Library/Audio/Plug-Ins/HAL/SoundBunny.plugin> (bundle, not loaded)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.yahoo.com."
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963656199	Marionette	INFO	Stopped listening on port 50561
+1669963753854	geckodriver	INFO	Listening on 127.0.0.1:50702
+1669963753882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50703" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile1BPJz0"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963754857	Marionette	INFO	Marionette enabled
+1669963755046	Marionette	INFO	Listening on port 50706
+Read port: 50706
+WebDriver BiDi listening on ws://127.0.0.1:50703
+1669963755242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile1BPJz0/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:50703/devtools/browser/85358a70-7e2e-4faf-aadc-028dd61478ef
+2022-12-02 01:49:18.962 plugin-container[27393:1161105] Error loading /Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny:  dlopen(/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny: file system sandbox blocked mmap() of '/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny'
+2022-12-02 01:49:18.962 plugin-container[27393:1161105] Cannot find function pointer HearCFPlugInFactory for factory C510CA09-C546-49CA-B110-019CAD658757 in CFBundle/CFPlugIn 0x10ef37130 </Library/Audio/Plug-Ins/HAL/SoundBunny.plugin> (bundle, not loaded)
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963779475	geckodriver	INFO	Listening on 127.0.0.1:50767
+1669963779500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50768" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileuTV5YT"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963780358	Marionette	INFO	Marionette enabled
+1669963780544	Marionette	INFO	Listening on port 50771
+Read port: 50771
+WebDriver BiDi listening on ws://127.0.0.1:50768
+1669963780755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileuTV5YT/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:50768/devtools/browser/2e2c27b3-655c-4339-a687-f7c6d9c59512
+2022-12-02 01:49:44.629 plugin-container[27417:1161710] Error loading /Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny:  dlopen(/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny: file system sandbox blocked mmap() of '/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny'
+2022-12-02 01:49:44.629 plugin-container[27417:1161710] Cannot find function pointer HearCFPlugInFactory for factory C510CA09-C546-49CA-B110-019CAD658757 in CFBundle/CFPlugIn 0x109136f60 </Library/Audio/Plug-Ins/HAL/SoundBunny.plugin> (bundle, not loaded)
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963804618	geckodriver	INFO	Listening on 127.0.0.1:50829
+1669963805131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50830" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile2K3IuZ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963806042	Marionette	INFO	Marionette enabled
+1669963806318	Marionette	INFO	Listening on port 50835
+Read port: 50835
+WebDriver BiDi listening on ws://127.0.0.1:50830
+1669963806577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile2K3IuZ/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:50830/devtools/browser/975278cc-5515-48a6-bfee-005b1111d72f
+2022-12-02 01:50:10.352 plugin-container[27442:1162304] Error loading /Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny:  dlopen(/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny: file system sandbox blocked mmap() of '/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny'
+2022-12-02 01:50:10.353 plugin-container[27442:1162304] Cannot find function pointer HearCFPlugInFactory for factory C510CA09-C546-49CA-B110-019CAD658757 in CFBundle/CFPlugIn 0x103d36f60 </Library/Audio/Plug-Ins/HAL/SoundBunny.plugin> (bundle, not loaded)
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+1669963828751	Marionette	INFO	Stopped listening on port 50771
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+1669963831420	Marionette	INFO	Stopped listening on port 50835
+1669963831885	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1669963833869	Marionette	INFO	Stopped listening on port 50706
+1669963844966	geckodriver	INFO	Listening on 127.0.0.1:50901
+1669963844988	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50902" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileNf0x6M"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1669963845985	Marionette	INFO	Marionette enabled
+1669963846206	Marionette	INFO	Listening on port 50905
+Read port: 50905
+WebDriver BiDi listening on ws://127.0.0.1:50902
+1669963846412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileNf0x6M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50902/devtools/browser/49feaeed-651e-4991-9fed-e21479e7500c
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+2022-12-02 01:50:49.796 plugin-container[27474:1163151] Error loading /Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny:  dlopen(/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny, 262): no suitable image found.  Did find:
+	/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny: file system sandbox blocked mmap() of '/Library/Audio/Plug-Ins/HAL/SoundBunny.plugin/Contents/MacOS/SoundBunny'
+2022-12-02 01:50:49.796 plugin-container[27474:1163151] Cannot find function pointer HearCFPlugInFactory for factory C510CA09-C546-49CA-B110-019CAD658757 in CFBundle/CFPlugIn 0x112636f60 </Library/Audio/Plug-Ins/HAL/SoundBunny.plugin> (bundle, not loaded)
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+1669963852961	Marionette	INFO	Stopped listening on port 50905
+1671250320000	geckodriver	INFO	Listening on 127.0.0.1:56385
+1671250320080	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56386" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileyVfEcz"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1671250321818	Marionette	INFO	Marionette enabled
+1671250321914	Marionette	INFO	Listening on port 56392
+Read port: 56392
+WebDriver BiDi listening on ws://127.0.0.1:56386
+1671250322485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileyVfEcz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56386/devtools/browser/4cfeba8c-d40d-45fc-89ea-4e53f6465f20
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1671250330360	Marionette	INFO	Stopped listening on port 56392
+1673564386901	geckodriver	INFO	Listening on 127.0.0.1:49797
+1673564387428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49798" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilep6yGYg"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564389183	Marionette	INFO	Marionette enabled
+1673564389566	Marionette	INFO	Listening on port 49805
+Read port: 49805
+WebDriver BiDi listening on ws://127.0.0.1:49798
+1673564389955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilep6yGYg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49798/devtools/browser/f432d37c-0e44-436a-a4be-5e7d0f6c5157
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1673564397321	Marionette	INFO	Stopped listening on port 49805
+1673564472022	geckodriver	INFO	Listening on 127.0.0.1:49925
+1673564472542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49926" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIfGH4v"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564473944	Marionette	INFO	Marionette enabled
+1673564474030	Marionette	INFO	Listening on port 49933
+Read port: 49933
+WebDriver BiDi listening on ws://127.0.0.1:49926
+1673564474388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIfGH4v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49926/devtools/browser/d9b5056f-e3c5-4622-8edd-48f768389ea6
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+1673564545219	geckodriver	INFO	Listening on 127.0.0.1:50035
+1673564545248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50036" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile6R4NmE"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564546760	Marionette	INFO	Marionette enabled
+1673564547293	Marionette	INFO	Listening on port 50041
+Read port: 50041
+WebDriver BiDi listening on ws://127.0.0.1:50036
+1673564547568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile6R4NmE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50036/devtools/browser/1ad03bc7-3032-4cef-a652-64516684e76e
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564563919	Marionette	INFO	Stopped listening on port 49933
+1673564568633	Marionette	INFO	Stopped listening on port 50041
+1673564597116	geckodriver	INFO	Listening on 127.0.0.1:50134
+1673564597144	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50135" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilerKqX5u"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564598554	Marionette	INFO	Marionette enabled
+1673564598856	Marionette	INFO	Listening on port 50139
+Read port: 50139
+WebDriver BiDi listening on ws://127.0.0.1:50135
+1673564599138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilerKqX5u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50135/devtools/browser/bdb8d5d7-419d-4757-ab21-c27ab1b90f91
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564619887	Marionette	INFO	Stopped listening on port 50139
+1673564725088	geckodriver	INFO	Listening on 127.0.0.1:50260
+1673564725107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50261" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileQnawJj"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564726154	Marionette	INFO	Marionette enabled
+1673564726380	Marionette	INFO	Listening on port 50264
+Read port: 50264
+WebDriver BiDi listening on ws://127.0.0.1:50261
+1673564726595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileQnawJj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50261/devtools/browser/2d64a052-e18b-4e88-ac9b-c6c58d373678
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564819457	geckodriver	INFO	Listening on 127.0.0.1:50389
+1673564819997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50390" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileJpXWwE"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564821626	Marionette	INFO	Marionette enabled
+1673564821880	Marionette	INFO	Listening on port 50397
+Read port: 50397
+WebDriver BiDi listening on ws://127.0.0.1:50390
+1673564822802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileJpXWwE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50390/devtools/browser/4e9b8a16-7320-41dd-9804-6156b84efebc
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564860652	Marionette	INFO	Stopped listening on port 50397
+1673564863067	Marionette	INFO	Stopped listening on port 50264
+1673564933695	geckodriver	INFO	Listening on 127.0.0.1:50542
+1673564934208	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50543" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileFCNzpF"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564935118	Marionette	INFO	Marionette enabled
+1673564935313	Marionette	INFO	Listening on port 50549
+Read port: 50549
+WebDriver BiDi listening on ws://127.0.0.1:50543
+1673564935502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileFCNzpF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50543/devtools/browser/eea07cb6-49ea-4956-9ab2-db7042ee28a7
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564996404	geckodriver	INFO	Listening on 127.0.0.1:50638
+1673564996938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50639" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIqZK5D"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673564998106	Marionette	INFO	Marionette enabled
+1673564998236	Marionette	INFO	Listening on port 50649
+Read port: 50649
+WebDriver BiDi listening on ws://127.0.0.1:50639
+1673564998932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIqZK5D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50639/devtools/browser/dd5bc0ff-6bee-4dcb-8861-f755841ae914
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565043261	Marionette	INFO	Stopped listening on port 50649
+1673565045997	Marionette	INFO	Stopped listening on port 50549
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967298/domnode52, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:103:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:101:31
+
+1673565088514	geckodriver	INFO	Listening on 127.0.0.1:50758
+1673565089035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50759" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileoEFGm9"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565089912	Marionette	INFO	Marionette enabled
+1673565090108	Marionette	INFO	Listening on port 50765
+Read port: 50765
+WebDriver BiDi listening on ws://127.0.0.1:50759
+1673565090332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileoEFGm9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50759/devtools/browser/36eeae2f-6208-42a8-bd22-6870035bedde
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565104051	Marionette	INFO	Stopped listening on port 50765
+1673565125832	geckodriver	INFO	Listening on 127.0.0.1:50843
+1673565125860	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50844" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileZlpfDa"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565126821	Marionette	INFO	Marionette enabled
+1673565127013	Marionette	INFO	Listening on port 50849
+Read port: 50849
+WebDriver BiDi listening on ws://127.0.0.1:50844
+1673565127226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileZlpfDa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50844/devtools/browser/18110470-cf76-4bd8-a15d-7329385f4c3a
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565131580	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673565133797	Marionette	INFO	Stopped listening on port 50849
+JavaScript error: resource://services-settings/Utils.jsm, line 240: TypeError: NetworkError: Network request failed
+1673565159435	geckodriver	INFO	Listening on 127.0.0.1:50929
+1673565159454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50930" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilejqee7j"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565160225	Marionette	INFO	Marionette enabled
+1673565160307	Marionette	INFO	Listening on port 50933
+Read port: 50933
+WebDriver BiDi listening on ws://127.0.0.1:50930
+1673565160894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilejqee7j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50930/devtools/browser/3eabf09c-fd2b-421e-966a-dae8aedae26b
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565165701	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673565185911	Marionette	INFO	Stopped listening on port 50933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673565192646	geckodriver	INFO	Listening on 127.0.0.1:51015
+1673565192674	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51016" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilels8neM"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565193510	Marionette	INFO	Marionette enabled
+1673565193586	Marionette	INFO	Listening on port 51019
+Read port: 51019
+WebDriver BiDi listening on ws://127.0.0.1:51016
+1673565194068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilels8neM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51016/devtools/browser/380afc9f-55ea-4ced-8179-4b36c83e8ac0
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565238183	Marionette	INFO	Stopped listening on port 51019
+1673565315540	geckodriver	INFO	Listening on 127.0.0.1:51142
+1673565315555	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51143" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile27jMug"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565316422	Marionette	INFO	Marionette enabled
+1673565316754	Marionette	INFO	Listening on port 51146
+Read port: 51146
+WebDriver BiDi listening on ws://127.0.0.1:51143
+1673565316959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile27jMug/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51143/devtools/browser/7420bdb7-2fda-4356-8357-f90ca5723540
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565345719	Marionette	INFO	Stopped listening on port 51146
+1673565404232	geckodriver	INFO	Listening on 127.0.0.1:51258
+1673565404265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51259" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile3TdpAe"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565405255	Marionette	INFO	Marionette enabled
+1673565405568	Marionette	INFO	Listening on port 51264
+Read port: 51264
+WebDriver BiDi listening on ws://127.0.0.1:51259
+1673565405860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile3TdpAe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51259/devtools/browser/34e6d735-9b5a-41d1-aeca-1bb93dc141e5
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565434456	Marionette	INFO	Stopped listening on port 51264
+1673565621010	geckodriver	INFO	Listening on 127.0.0.1:51431
+1673565621025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51432" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilebGF1AO"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565621772	Marionette	INFO	Marionette enabled
+1673565621839	Marionette	INFO	Listening on port 51436
+Read port: 51436
+WebDriver BiDi listening on ws://127.0.0.1:51432
+1673565622355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilebGF1AO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51432/devtools/browser/5950786c-0384-4bf2-90ea-f5e593eaa17c
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565634070	Marionette	INFO	Stopped listening on port 51436
+1673565656837	geckodriver	INFO	Listening on 127.0.0.1:51496
+1673565656855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51497" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilebuO1nf"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565657576	Marionette	INFO	Marionette enabled
+1673565657643	Marionette	INFO	Listening on port 51502
+Read port: 51502
+WebDriver BiDi listening on ws://127.0.0.1:51497
+1673565658200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilebuO1nf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51497/devtools/browser/140ee788-44ac-41cd-82fb-78f5b2ef6627
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565671420	Marionette	INFO	Stopped listening on port 51502
+1673565697533	geckodriver	INFO	Listening on 127.0.0.1:51585
+1673565697558	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51586" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile0MVHqy"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565698433	Marionette	INFO	Marionette enabled
+1673565698669	Marionette	INFO	Listening on port 51589
+Read port: 51589
+WebDriver BiDi listening on ws://127.0.0.1:51586
+1673565698879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile0MVHqy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51586/devtools/browser/3eb23bca-bdbe-4ec1-adf6-88eb7d648135
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565747293	geckodriver	INFO	Listening on 127.0.0.1:51658
+1673565747316	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51659" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilewY36WJ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565748256	Marionette	INFO	Marionette enabled
+1673565748491	Marionette	INFO	Listening on port 51662
+Read port: 51662
+WebDriver BiDi listening on ws://127.0.0.1:51659
+1673565748706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilewY36WJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51659/devtools/browser/a2252e9a-98a8-4685-8890-367959d08acb
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565778336	geckodriver	INFO	Listening on 127.0.0.1:51725
+1673565778859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51726" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIn2eTP"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565779694	Marionette	INFO	Marionette enabled
+1673565779976	Marionette	INFO	Listening on port 51732
+Read port: 51732
+WebDriver BiDi listening on ws://127.0.0.1:51726
+1673565780334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIn2eTP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51726/devtools/browser/d3b240bd-5d94-4640-993a-7796425b4b7e
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673565792707	Marionette	INFO	Stopped listening on port 51732
+1673566082708	geckodriver	INFO	Listening on 127.0.0.1:51946
+1673566083227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51947" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilecJzUEC"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566084105	Marionette	INFO	Marionette enabled
+1673566084377	Marionette	INFO	Listening on port 51953
+Read port: 51953
+WebDriver BiDi listening on ws://127.0.0.1:51947
+1673566084607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilecJzUEC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51947/devtools/browser/55df580c-bfb5-40e7-808e-73e02d07fad6
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566097525	Marionette	INFO	Stopped listening on port 51953
+1673566119183	Marionette	INFO	Stopped listening on port 51662
+1673566121105	Marionette	INFO	Stopped listening on port 51589
+1673566208479	geckodriver	INFO	Listening on 127.0.0.1:52094
+1673566208497	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52095" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilextaqQ7"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566209238	Marionette	INFO	Marionette enabled
+1673566209371	Marionette	INFO	Listening on port 52099
+Read port: 52099
+WebDriver BiDi listening on ws://127.0.0.1:52095
+1673566210013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilextaqQ7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52095/devtools/browser/a6ed5511-f22b-4f8c-a870-9cb7fd057479
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566212844	geckodriver	INFO	Listening on 127.0.0.1:52117
+1673566213363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52118" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileYkcKRG"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566214342	Marionette	INFO	Marionette enabled
+1673566214552	Marionette	INFO	Listening on port 52142
+Read port: 52142
+WebDriver BiDi listening on ws://127.0.0.1:52118
+1673566214867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileYkcKRG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52118/devtools/browser/f22bf297-d4c5-4b36-bf0f-5843c185d835
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566226621	Marionette	INFO	Stopped listening on port 52099
+1673566230335	Marionette	INFO	Stopped listening on port 52142
+1673566298613	geckodriver	INFO	Listening on 127.0.0.1:52243
+1673566298631	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52244" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileU8JHIQ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566299554	Marionette	INFO	Marionette enabled
+1673566299597	Marionette	INFO	Listening on port 52248
+Read port: 52248
+WebDriver BiDi listening on ws://127.0.0.1:52244
+1673566300149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileU8JHIQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52244/devtools/browser/4b6f157b-90bd-4e2c-95ef-e064223203d1
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566302779	geckodriver	INFO	Listening on 127.0.0.1:52265
+1673566303289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52266" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileLWU5fE"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566304189	Marionette	INFO	Marionette enabled
+1673566304279	Marionette	INFO	Listening on port 52292
+Read port: 52292
+WebDriver BiDi listening on ws://127.0.0.1:52266
+1673566305025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileLWU5fE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52266/devtools/browser/2ae98185-9899-45da-b0a4-c1e3eabb5606
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566317641	Marionette	INFO	Stopped listening on port 52248
+1673566385431	geckodriver	INFO	Listening on 127.0.0.1:52393
+1673566385453	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52394" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileiL54s8"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566386364	Marionette	INFO	Marionette enabled
+1673566386420	Marionette	INFO	Listening on port 52398
+Read port: 52398
+WebDriver BiDi listening on ws://127.0.0.1:52394
+1673566386791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileiL54s8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52394/devtools/browser/5d02441a-1fa1-42b2-810d-e95dd2fd5f01
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566585195	geckodriver	INFO	Listening on 127.0.0.1:52537
+1673566585229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52538" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilevwevOw"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566586150	Marionette	INFO	Marionette enabled
+1673566586356	Marionette	INFO	Listening on port 52541
+Read port: 52541
+WebDriver BiDi listening on ws://127.0.0.1:52538
+1673566586563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilevwevOw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52538/devtools/browser/2fc0ecf5-59fa-4919-9a63-3d821afd28e1
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566588976	geckodriver	INFO	Listening on 127.0.0.1:52558
+1673566589498	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52559" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileYetOst"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566590580	Marionette	INFO	Marionette enabled
+1673566590621	Marionette	INFO	Listening on port 52586
+Read port: 52586
+WebDriver BiDi listening on ws://127.0.0.1:52559
+1673566590931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileYetOst/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52559/devtools/browser/4bc294d8-75d5-4808-91f4-d58d56f2d665
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673566603701	Marionette	INFO	Stopped listening on port 52541
+1673566624324	Marionette	INFO	Stopped listening on port 52398
+1673566626677	Marionette	INFO	Stopped listening on port 52292
+1673566628835	Marionette	INFO	Stopped listening on port 52586
+1673567504536	geckodriver	INFO	Listening on 127.0.0.1:53264
+1673567505053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53265" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileBlDpq2"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673567506250	Marionette	INFO	Marionette enabled
+1673567506326	Marionette	INFO	Listening on port 53271
+Read port: 53271
+WebDriver BiDi listening on ws://127.0.0.1:53265
+1673567506643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileBlDpq2/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:53265/devtools/browser/ae1fdfb4-8d39-4a1d-9135-18817e09fe8f
+1673567542895	Marionette	INFO	Stopped listening on port 53271
+1673567557396	geckodriver	INFO	Listening on 127.0.0.1:53338
+1673567557414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53339" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileTTYbrg"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673567558338	Marionette	INFO	Marionette enabled
+1673567558374	Marionette	INFO	Listening on port 53342
+Read port: 53342
+WebDriver BiDi listening on ws://127.0.0.1:53339
+1673567558663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileTTYbrg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53339/devtools/browser/fea79d61-108f-4d11-a7c4-da70cfa5ea74
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673590891022	geckodriver	INFO	Listening on 127.0.0.1:56831
+1673590891535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56832" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileHqfPVG"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673590892489	Marionette	INFO	Marionette enabled
+1673590892526	Marionette	INFO	Listening on port 56837
+Read port: 56837
+WebDriver BiDi listening on ws://127.0.0.1:56832
+1673590892921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileHqfPVG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56832/devtools/browser/f2190e76-220e-438a-b283-227d15687c74
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673590935033	Marionette	INFO	Stopped listening on port 56837
+1673590938573	Marionette	INFO	Stopped listening on port 53342
+1673591510316	geckodriver	INFO	Listening on 127.0.0.1:57204
+1673591510833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57205" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofiles3QJLp"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673591511877	Marionette	INFO	Marionette enabled
+1673591512130	Marionette	INFO	Listening on port 57211
+Read port: 57211
+WebDriver BiDi listening on ws://127.0.0.1:57205
+1673591512346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofiles3QJLp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57205/devtools/browser/1eea05fb-844e-4282-938c-533d09a97181
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673591555284	Marionette	INFO	Stopped listening on port 57211
+1673591645882	geckodriver	INFO	Listening on 127.0.0.1:57317
+1673591645900	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57318" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile8BgUlV"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673591646768	Marionette	INFO	Marionette enabled
+1673591647124	Marionette	INFO	Listening on port 57322
+Read port: 57322
+WebDriver BiDi listening on ws://127.0.0.1:57318
+1673591647358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofile8BgUlV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57318/devtools/browser/60e34c68-6348-4b5d-97d5-ebb28a1210e1
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673591776679	geckodriver	INFO	Listening on 127.0.0.1:57441
+1673591777203	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57442" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilekmcToN"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673591778565	Marionette	INFO	Marionette enabled
+1673591778786	Marionette	INFO	Listening on port 57448
+Read port: 57448
+WebDriver BiDi listening on ws://127.0.0.1:57442
+1673591779645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilekmcToN/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:57442/devtools/browser/1aaaf851-6849-4703-9401-b7d6ceb84a84
+1673591785040	Marionette	INFO	Stopped listening on port 57322
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673591858815	Marionette	INFO	Stopped listening on port 57448
+1673591922978	geckodriver	INFO	Listening on 127.0.0.1:57572
+1673591922994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57573" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileYJPp19"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673591923900	Marionette	INFO	Marionette enabled
+1673591924154	Marionette	INFO	Listening on port 57576
+Read port: 57576
+WebDriver BiDi listening on ws://127.0.0.1:57573
+1673591924398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileYJPp19/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57573/devtools/browser/abcf5b3d-bb48-49c2-b769-8ecf3aca3324
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592016296	geckodriver	INFO	Listening on 127.0.0.1:57674
+1673592016321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57675" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileZRe9J9"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592017828	Marionette	INFO	Marionette enabled
+1673592017880	Marionette	INFO	Listening on port 57679
+Read port: 57679
+WebDriver BiDi listening on ws://127.0.0.1:57675
+1673592018366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592019638	Marionette	INFO	Stopped listening on port 57576
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileZRe9J9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57675/devtools/browser/0b628f81-342b-4ca8-9973-6df8486c28a2
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592031724	Marionette	INFO	Stopped listening on port 57679
+1673592143233	geckodriver	INFO	Listening on 127.0.0.1:57795
+1673592143257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57796" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileGRrs12"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592144280	Marionette	INFO	Marionette enabled
+1673592144339	Marionette	INFO	Listening on port 57801
+Read port: 57801
+WebDriver BiDi listening on ws://127.0.0.1:57796
+1673592144851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileGRrs12/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57796/devtools/browser/0e38d60f-6726-4706-9307-9dbf51b030a1
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592221869	Marionette	INFO	Stopped listening on port 57801
+1673592250317	geckodriver	INFO	Listening on 127.0.0.1:57911
+1673592250336	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57912" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileeAds9E"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592251284	Marionette	INFO	Marionette enabled
+1673592251321	Marionette	INFO	Listening on port 57916
+Read port: 57916
+WebDriver BiDi listening on ws://127.0.0.1:57912
+1673592251648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileeAds9E/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57912/devtools/browser/0e7e785d-f5ab-470d-ba95-352f032e3291
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592328157	geckodriver	INFO	Listening on 127.0.0.1:58009
+1673592328186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58010" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIeH9xW"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592329842	Marionette	INFO	Marionette enabled
+1673592330101	Marionette	INFO	Listening on port 58015
+Read port: 58015
+WebDriver BiDi listening on ws://127.0.0.1:58010
+1673592330400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIeH9xW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58010/devtools/browser/1de23a31-27f7-4ec9-8675-09ffbd7ffff2
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592359305	Marionette	INFO	Stopped listening on port 57916
+1673592362415	Marionette	INFO	Stopped listening on port 58015
+1673592942104	geckodriver	INFO	Listening on 127.0.0.1:58375
+1673592942620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58376" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileummcRh"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673592943484	Marionette	INFO	Marionette enabled
+1673592943686	Marionette	INFO	Listening on port 58382
+Read port: 58382
+WebDriver BiDi listening on ws://127.0.0.1:58376
+1673592943893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileummcRh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58376/devtools/browser/38e18e68-7e7b-464b-9f9a-9e7987ac48d2
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593152965	geckodriver	INFO	Listening on 127.0.0.1:58535
+1673593153483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58536" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileziQVOh"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593154342	Marionette	INFO	Marionette enabled
+1673593154591	Marionette	INFO	Listening on port 58542
+Read port: 58542
+WebDriver BiDi listening on ws://127.0.0.1:58536
+1673593154879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileziQVOh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58536/devtools/browser/0afb3f69-b749-475f-9ab3-24f9a9a82392
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593175266	Marionette	INFO	Stopped listening on port 58542
+1673593178100	Marionette	INFO	Stopped listening on port 58382
+1673593193445	geckodriver	INFO	Listening on 127.0.0.1:58600
+1673593193460	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58601" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileM8CAYp"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593194294	Marionette	INFO	Marionette enabled
+1673593194491	Marionette	INFO	Listening on port 58605
+Read port: 58605
+WebDriver BiDi listening on ws://127.0.0.1:58601
+1673593194693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileM8CAYp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58601/devtools/browser/5912d542-8998-4b4b-a8ce-585a67ed2ea0
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593206503	Marionette	INFO	Stopped listening on port 58605
+1673593310064	geckodriver	INFO	Listening on 127.0.0.1:58717
+1673593310086	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "58718" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilejQPceO"
+*** You are running in headless mode.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593310791	Marionette	INFO	Marionette enabled
+1673593310847	Marionette	INFO	Listening on port 58722
+Read port: 58722
+WebDriver BiDi listening on ws://127.0.0.1:58718
+1673593311153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilejQPceO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58718/devtools/browser/a2741edb-88e3-4ba9-aeda-61dd092c4c01
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593322801	Marionette	INFO	Stopped listening on port 58722
+1673593506445	geckodriver	INFO	Listening on 127.0.0.1:58874
+1673593506967	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "58875" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileXWCcCY"
+*** You are running in headless mode.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593507653	Marionette	INFO	Marionette enabled
+1673593507712	Marionette	INFO	Listening on port 58880
+Read port: 58880
+WebDriver BiDi listening on ws://127.0.0.1:58875
+1673593508025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileXWCcCY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58875/devtools/browser/cc51550d-7f8e-4125-b47c-1e54952e0ba0
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593519566	Marionette	INFO	Stopped listening on port 58880
+1673593535829	geckodriver	INFO	Listening on 127.0.0.1:58947
+1673593535846	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "58948" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileiXuIA3"
+*** You are running in headless mode.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593536552	Marionette	INFO	Marionette enabled
+1673593536611	Marionette	INFO	Listening on port 58952
+Read port: 58952
+WebDriver BiDi listening on ws://127.0.0.1:58948
+1673593536909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileiXuIA3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58948/devtools/browser/148d6e46-36bd-41d5-8df3-8fa412d48c98
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593548390	Marionette	INFO	Stopped listening on port 58952
+1673593672793	geckodriver	INFO	Listening on 127.0.0.1:59064
+1673593672813	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "59065" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilel58fcZ"
+*** You are running in headless mode.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593673572	Marionette	INFO	Marionette enabled
+1673593673612	Marionette	INFO	Listening on port 59068
+Read port: 59068
+WebDriver BiDi listening on ws://127.0.0.1:59065
+1673593673947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofilel58fcZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59065/devtools/browser/9c62e57f-2317-4b5b-835e-057861962e07
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593748574	geckodriver	INFO	Listening on 127.0.0.1:59162
+1673593748597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "59163" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileOehwfE"
+*** You are running in headless mode.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673593749653	Marionette	INFO	Marionette enabled
+1673593749760	Marionette	INFO	Listening on port 59168
+Read port: 59168
+WebDriver BiDi listening on ws://127.0.0.1:59163
+1673593750178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileOehwfE/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:59163/devtools/browser/ef73007c-350a-4942-b022-9e7a1fe343c0
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594152427	geckodriver	INFO	Listening on 127.0.0.1:59463
+1673594152935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "59464" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileDTypuN"
+*** You are running in headless mode.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594161444	Marionette	INFO	Marionette enabled
+1673594162316	Marionette	INFO	Listening on port 59474
+Read port: 59474
+Read port: 59474
+WebDriver BiDi listening on ws://127.0.0.1:59464
+Read port: 59474
+1673594165915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileDTypuN/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+1673594195272	geckodriver	INFO	Listening on 127.0.0.1:59505
+1673594195396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "59506" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileC6p0Hr"
+*** You are running in headless mode.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594200615	Marionette	INFO	Marionette enabled
+1673594201164	Marionette	INFO	Listening on port 59512
+Read port: 59512
+Read port: 59512
+WebDriver BiDi listening on ws://127.0.0.1:59506
+1673594203052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileC6p0Hr/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:59506/devtools/browser/553a8dac-881f-45ab-a102-dc83f7247be6
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673594258503	geckodriver	INFO	Listening on 127.0.0.1:59581
+1673594258546	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "59582" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileMZs86P"
+*** You are running in headless mode.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594267491	Marionette	INFO	Marionette enabled
+1673594267933	Marionette	INFO	Listening on port 59596
+Read port: 59596
+Read port: 59596
+WebDriver BiDi listening on ws://127.0.0.1:59582
+Read port: 59596
+1673594272409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1673594693299	geckodriver	INFO	Listening on 127.0.0.1:49421
+1673594693450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "49422" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileGiE5Pc"
+*** You are running in headless mode.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594696436	Marionette	INFO	Marionette enabled
+1673594696574	Marionette	INFO	Listening on port 49428
+Read port: 49428
+WebDriver BiDi listening on ws://127.0.0.1:49422
+1673594697323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileGiE5Pc/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:49422/devtools/browser/535bf15f-6572-49b4-9c9a-21de99327277
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594714722	Marionette	INFO	Stopped listening on port 49428
+JavaScript error: resource://services-settings/Utils.jsm, line 240: TypeError: NetworkError: Network request failed
+1673594823876	geckodriver	INFO	Listening on 127.0.0.1:49533
+1673594824397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49534" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileeZxe9c"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594825283	Marionette	INFO	Marionette enabled
+1673594825549	Marionette	INFO	Listening on port 49541
+Read port: 49541
+WebDriver BiDi listening on ws://127.0.0.1:49534
+1673594826300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileeZxe9c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49534/devtools/browser/82ec1308-c3ed-4f93-a7cd-0978b18bcd53
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594840135	Marionette	INFO	Stopped listening on port 49541
+1673594887247	geckodriver	INFO	Listening on 127.0.0.1:49622
+1673594887270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49623" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileRV1tVA"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594888403	Marionette	INFO	Marionette enabled
+1673594888486	Marionette	INFO	Listening on port 49628
+Read port: 49628
+WebDriver BiDi listening on ws://127.0.0.1:49623
+1673594889203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileRV1tVA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49623/devtools/browser/07ea4d39-b028-4e48-bc8e-44b3f3c7ad37
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594942021	Marionette	INFO	Stopped listening on port 49628
+1673594983559	geckodriver	INFO	Listening on 127.0.0.1:49720
+1673594984078	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49721" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileHYOaaT"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673594984948	Marionette	INFO	Marionette enabled
+1673594985021	Marionette	INFO	Listening on port 49729
+Read port: 49729
+WebDriver BiDi listening on ws://127.0.0.1:49721
+1673594985410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileHYOaaT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49721/devtools/browser/bc0a51ab-1719-4b84-b8f0-7f8a41eb60fa
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673595017801	Marionette	INFO	Stopped listening on port 49729
+1673595046946	geckodriver	INFO	Listening on 127.0.0.1:49811
+1673595046973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49812" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIRBh3O"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673595048271	Marionette	INFO	Marionette enabled
+1673595048329	Marionette	INFO	Listening on port 49818
+Read port: 49818
+WebDriver BiDi listening on ws://127.0.0.1:49812
+1673595048864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileIRBh3O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49812/devtools/browser/10aea1a0-9917-4037-89fb-cbc14f39255f
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673595068808	Marionette	INFO	Stopped listening on port 49818
+1673595110713	geckodriver	INFO	Listening on 127.0.0.1:49900
+1673595110730	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49901" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileExoUGz"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673595111811	Marionette	INFO	Marionette enabled
+1673595112111	Marionette	INFO	Listening on port 49907
+Read port: 49907
+WebDriver BiDi listening on ws://127.0.0.1:49901
+1673595112370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vy/9d00_sm15hg1cv2kv99_wbp00000gn/T/rust_mozprofileExoUGz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49901/devtools/browser/2eaaa807-d9df-43a4-b160-325036f54159
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1673595130581	Marionette	INFO	Stopped listening on port 49907
